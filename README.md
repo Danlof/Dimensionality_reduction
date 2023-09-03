@@ -1,2 +1,3 @@
 # Dimensionality_reduction
-This will be implemented via dataset on breast cancer , that has as many features as possible that would be a great starting point to reduce their dimensonality and visualize as well as train for prediction on detecting the types of the breast cancer
+This will be implemented via a dataset on breast cancer.
+That has over 50k features that would be a great starting point to reduce their dimensionality,visualize as well as make predictions on detecting the types of the breast cancer(basal,HER,etc)
